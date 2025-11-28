@@ -26,7 +26,7 @@ router.get("/", async () => {
 npm run build
 ```
 
-3. This outputs `worker.js` with all dependencies inlined - no imports needed.
+3. This outputs `worker.js` with all dependencies inlined. Copy and publish this file as your Puter worker normally.
 
 ## Build Configuration
 
